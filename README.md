@@ -55,7 +55,7 @@ jupyter notebook
 
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. <a href="https://arxiv.org/abs/1909.09638">"Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights."</a> In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 
-<br><br>
+<br><br><br>
 
  <div align="center">
   <h2> 🖋 Assinatura: </h2>
